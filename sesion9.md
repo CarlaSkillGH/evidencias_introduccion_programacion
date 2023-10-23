@@ -3,6 +3,7 @@
 
 ## Sesión 9 
 
+## HTML
 
 ```html
 <!DOCTYPE html>
@@ -49,6 +50,8 @@
 </body>
 </html>
 ```
+
+## CSS
 
 ```css
 .contenedor {

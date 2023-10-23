@@ -3,6 +3,8 @@
 
 ## Sesión 8 
 
+## HTML
+
 ```html 
 <!DOCTYPE html>
 <html lang="es">
@@ -43,6 +45,7 @@
 </body>
 </html>
 ``` 
+## CSS
 
 ```css 
 h1 {
