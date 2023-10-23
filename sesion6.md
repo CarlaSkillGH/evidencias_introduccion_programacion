@@ -1,11 +1,10 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 6
+# Sesión 6
 
 
-<!-- Su documentación aquí -->
-
+## Día de evaluación
 
 
 

@@ -1,7 +1,9 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 3 
+# Sesión 3 
+
+## Sintaxis de HTML para la página web
 
 ```html 
 <!DOCTYPE html>

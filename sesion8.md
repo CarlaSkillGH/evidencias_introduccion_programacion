@@ -1,51 +1,59 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 8 
+# Sesión 8 
 
-## HTML
+## Sintaxis de HTML para la página web
 
 ```html 
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Página Web</title>
+    <link rel="stylesheet" href="stiles.css"> 
+    <title>Sirius Amadeus</title>
 </head>
+
 <body>
     <header>
-        <h1>Encabezado</h1>
+        <h1>¡Hola, soy Sirius Amadeus!</h1>
     </header>
 
     <div>
-        <p>Primer párrafo</p>
-        <p>Segundo párrafo</p>
-        <p>Tercer párrafo</p>
+        <p>Soy un carrocho muy jugueton</p>
+        <p>Disponible para el desorden</p>
+        <p>Atento para la comelona</p>
+        <p>Dispuesto para el desmadris</p>
+
+        
     </div>
 
-    <img src="ruta/de/la/imagen.jpg" alt="Imagen" id="sombras">
+        <img src="https://firebasestorage.googleapis.com/v0/b/proyecto-ma-ds.appspot.com/o/Amadeus%20(4).jpg?alt=media&token=02175d74-fcb3-4938-b956-8ff759242a66"
+        alt="Imagen" id="sombras" width="250" height="300">
 
     <footer>
-        <p>Pie de página</p>
+        <p>Amo el pollito 🐥</p>
     </footer>
 
     <section id="principal">
         <div>
-            <p>Esto es un párrafo dentro de un div</p>
-            <p>Esto es otro párrafo dentro de un div</p>
+            <p>Me gusta jugar con amiguitos</p>
+            <p>Me aburren los abrazos</p>
         </div>
     </section>
 
     <section>
-        <p>Esto es un párrafo en una sección</p>
+        <p>Y eso es todo por ahora 🐾</p>
     </section>
 </body>
+
 </html>
 ``` 
-## CSS
+
+## Sintaxis de CSS para la página web
 
 ```css 
 h1 {
@@ -60,7 +68,6 @@ img {
     border: 3px solid black;
 }
 
-/* Selectores de clase */
 .destacado {
     color: green;
 }
@@ -69,7 +76,6 @@ img {
     font-size: 20px;
 }
 
-/* Selectores de ID */
 #principal {
     color: yellow;
 }
@@ -78,7 +84,6 @@ img {
     box-shadow: 2px 2px 2px #888888;
 }
 
-/* Selectores descendientes */
 section div p {
     color: gray;
 }

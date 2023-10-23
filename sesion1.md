@@ -1,7 +1,7 @@
 <!-- No borrar o modificar -->
 [Inicio](./index.md)
 
-## Sesión 1 
+# Sesión 1 
  
 # La web
 
