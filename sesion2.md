@@ -3,7 +3,7 @@
 
 # Sesión 2
 
-## Sintaxis de HTML para la página web
+## Sintaxis de HTML para la página web 1
 
 ```html 
 <!DOCTYPE html>
@@ -51,7 +51,7 @@
 </html>
 ```
 
-## Sintaxis de HTML para la página web
+## Sintaxis de HTML para la página web 2
 
 ``` html
 <!DOCTYPE html>
@@ -60,7 +60,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>¿Cómo funciona?</title>
 </head>
 
 <body>
@@ -146,7 +146,7 @@
 </html>
 ```
 
-## Sintaxis de HTML para la página web
+## Sintaxis de HTML para la página web 3
 
 ```html
 <!DOCTYPE html>

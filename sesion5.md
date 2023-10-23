@@ -3,7 +3,7 @@
 
 # Sesión 5 
 
-## Sintaxis de HTML para la página web
+## Sintaxis de HTML para la página web con el formulario
 
 ``` html
 <!DOCTYPE html>

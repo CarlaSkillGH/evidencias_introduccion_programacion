@@ -15,7 +15,7 @@
 </head>
 <body>
     <h2> Actividad de la semana 4 </h2>
-    <table border="10" cellpadding="5" cellspacing="5">
+    <table border ="10" cellpadding="5" cellspacing="5">
         <thead>
             <tr>
                 <th>Código</th>

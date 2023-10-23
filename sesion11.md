@@ -62,7 +62,7 @@
     position: relative;
     color: #ffffff;
     background-color: #3498db;
-    background-image: url('ruta/de/imagen.jpg');
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/proyecto-ma-ds.appspot.com/o/1680650691457.jpg?alt=media&token=ce0fa643-ad3a-4340-910c-b63a71c51b2d&_gl=1*1c2prrw*_ga*MTIyNDU1NjA4LjE2OTgwMTg3ODI.*_ga_CW55HF8NVT*MTY5ODA5MzY4MS4zLjEuMTY5ODA5Mzg5Ni42MC4wLjA');
     background-repeat: no-repeat;
     background-position: center;
     font-family: Arial, sans-serif;
