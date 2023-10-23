@@ -27,7 +27,7 @@
     
     <h2>Editores de código para desarrollo web​</h2>
     <ol>
-        <il> <H3>Visual Studio Code</H3></il>
+        <il> <H3>Visual Studio Code</H3> </il>
         <p>Un editor de código gratuito y de código abierto desarrollado por Microsoft. Es altamente personalizable y tiene una amplia gama de características, incluyendo soporte para HTML, CSS, JavaScript, PHP, Python, C++, y muchas otras.</p>
 
         <il><H3>Sublime Text</il> </H3>
